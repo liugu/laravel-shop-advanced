@@ -32,7 +32,7 @@
         </div>
         <!-- 面包屑结束 -->
 
-        <div class="col-md-9">
+        <div class="col-md-6">
           <div class="form-row">
             <div class="col-auto"><input type="text" class="form-control form-control-sm" name="search" placeholder="搜索"></div>
             <div class="col-auto"><button class="btn btn-primary btn-sm">搜索</button></div>
